@@ -4,3 +4,6 @@ var sandwich = "Ham and Cheese";
 var date = 18;
 var salary = 50000;
 var responses = 20;
+var present = true;
+var alive = true;
+var retired = false;
